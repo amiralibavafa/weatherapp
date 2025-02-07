@@ -30,7 +30,7 @@ This is a weather application built using **Dart** and **Flutter** that allows u
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/amiralibavafa/weatherapp.git
    
 2. Navigate to the project folder:
    ```bash
