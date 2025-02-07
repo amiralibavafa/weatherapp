@@ -33,12 +33,15 @@ This is a weather application built using **Dart** and **Flutter** that allows u
    git clone <repository-url>
    
 2. Navigate to the project folder:
-   ```cd weather_app
+   ```bash
+   cd weather_app
 
 3. Install dependencies:
-   ```flutter pub get
+   ```bash
+   flutter pub get
 
 4. Run the app:
+   ```bash
    flutter run
 
 ## Permissions 🔒
@@ -46,13 +49,15 @@ This is a weather application built using **Dart** and **Flutter** that allows u
 - Permissions are requested only when needed and only during the app's use, ensuring privacy.
 
 ## Screenshots 📸
-<img src='/sc1.png' style='width 200px' />
-<img src='/sc2.png' style='width 200px' />
+<img src='/sc1.png' style='width: 200px; ' />
+<img src='/sc2.png' style='width: 200px' />
 
 ## Future Enhancements 🚀
 - Weather Forecast 📅: Adding a forecast feature to display weather predictions for the coming days.
 - Customizable Units ⚖️: Allow users to choose temperature units (Celsius, Fahrenheit).
 - Notification Support 🔔: Notify users about weather updates for their location or selected cities.
+
+## 
 
 - This app is a demonstration of my skills in Flutter, Dart, API integration, and location services. It highlights my ability to build dynamic, user-friendly mobile applications with real-time data.
 
